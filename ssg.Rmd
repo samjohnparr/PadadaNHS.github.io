@@ -1,0 +1,40 @@
+---
+title: "Supreme Student Government"
+---
+
+The Supreme Student Government is the highest governing body of the students. It is composed of officers duly elected by the entire student body. It represents the voice of the studentry with the following duties and responsibilities:
+
+  + To uphold and enforce the provisions of the Supreme Student Government By-Laws and Constitution;
+  + To support and promote the ideals, principles, thrusts, and objectives of the SSG, the School and Department of Education;
+  + To formulate and to recommend programs that will address relevant issues and concerns of the students;
+  + To plan, to implement, and to enforce policies designed to protect and promote the students' rights and welfare; and
+  + To serve as a representative of the students in voicing their opinions, suggestions and grievances.
+  
+## Officers (S.Y. 2021-2022)
+The Supreme Student Government Officers of School Year 2021-2022 are the following:
+
+  * PRESIDENT - **Jessica Gerongay**
+  * VICE-PRESIDENT - **Shane Gary Loie Tapulado**
+  * SECRETARY - **Desiree Villegas**
+  * TREASURER - **Camielle Theshannah Jamisola**
+  * AUDITOR - **Aicel Marl Lausa**
+  * PUBLIC INFORMATION OFFICER - **Alleah Fee Lasuña**
+  * PROTOCOL OFFICER - **Chinky Hilot**
+  * GRADE LEVEL REPRESENTATIVES:
+      * GRADE 7 - **Jenissa Masubay**, **Krizzel Ann Cero**
+      * GRADE 8 - **Jhonlloyd Getalla**, **Jacell Ann Revilla**
+      * GRADE 9 - **Khently Pansoy**, **Euan Riel Oja**
+      * GRADE 10 - **April Joy Dura**, **Jennie Mae Siy**
+      * GRADE 11 - **Erich Cabiad**, **Dv Marie Arevalo**
+      * GRADE 12 - **Love Marie Dayanap**, **Gwyne Herana**
+  * SSG ADVISER - **Samuel John E. Parreño**
+
+
+##  National Gardening Day (2020)
+  
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/PADADA NATIONAL HIGH SCHOOL/Website/Website 1/PNHS1/SSG Images/National Gardening Day", pattern = 'jpg', full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 2, slidesToScroll = 2, focusOnSelect = TRUE)
+```
+
+<a href="#top">Back to top</a>

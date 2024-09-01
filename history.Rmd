@@ -1,0 +1,54 @@
+---
+title: "History"
+---
+
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
+```
+
+<body>
+
+&nbsp;
+&nbsp;
+
+<center>
+## **HISTORY**
+<center>
+
+```{r, echo=FALSE,out.width="50%", fig.align='center'}
+knitr::include_graphics("D:/PADADA NATIONAL HIGH SCHOOL/Website/Website 1/PNHS1/images/pnhs_history_1.jpg")
+```
+
+&nbsp;
+
+<div style="text-align: justify">
+
+Padada National High School, formerly Hagonoy National High School Annex, is strategically situated in a in a one (1) hectare land located at Northern Paligue, Padada, Davao del Sur which has an estimated distance of 500 meters form the Davao - General Santos National Highway acquired from the joint funds of the Padada Local Government Unit and the Provincial Government. 
+
+The school operated in the year 1994 under the support of Padada LGU with Hon. Carmelo delos Cientos III, as Municipal Mayor. It was then located at the Municipal Government Complex with Mr. Julio Estropia as the head of the school.
+
+With the municipal mayor's vision to establish a technical-vocational school in the municipality, he, together with the Vice-Mayor and the Sangguniang Bayad made efforts for the school to be under the Technical Education Skills and Development Authority (TESDA). Eventually, in 1998 the school was named Carmelo delos Cientos Sr. National Trade School (CCNTS) after the name of the late father of the mayor, situated in a 1.5 hectare land at Southern Paligue, Padada, Davao del Sur acquired through the effort of Mr. Pablo Villaber, this time the school was already offering secondary and vocational courses with the leadership of Mr. Nicasio Estudillo, Ed.D.
+
+However with the rationalization scheme between the Department of Education and TESDA, the supervision of the secondary department was turned over to the former in June 2002 bearing the name, Hagonoy National High School Annex with the stewardship of Mr. RIcardo U. Pillerin.
+
+Due to this event, the school had no other choice but to look for a new location since the land that it occupies is owned by TESDA. The school transferred to its present site on October 8, 2003.
+
+In June of 2008, Mr. Ricardo Pillerin was recalled to his original station at Sulop National High School and was replaced by the present head Mr. Emeterio S. Lobitos, Jr.
+
+In August 2008, Hagonoy National High School Annex was separated from its mother school by virtue of Republic Act 9540 otherwise known as an act establishing Padada National High School. This made the latter possessed juridicial personality and became an independent school.
+
+In 2011, Padada National High School established its extension classes in barangay Lower Malinao headed by Mr. RUden B. Gomez and barangay Piape led by Mrs. Elizabeth S. Solano, Ed.D.
+
+Padada National High School (PNHS) opens different programs in order to cater all learners in the community. In 2009, Special Education (SPED) program was offered to help learners with Learning Disabilities (LD) and Hearing Impaired (HI). Seeing the impact of this to the community, the school been ventured into another field of learning to hone talented students in the field of Arts, thus Special Program in the Arts (SPA) on different fields of specialization: Visual Arts, Dance, Voice, Media Arts, and Creative Writing was born in 2012.
+
+With the onset of Senior High School (SHS), PNHS offers two tracks: General Academic Strand and Tech. Voc. with the following specialization: Plumbing, Shielded Metal Arc Welding (SMAW), Automotive, Hair Dressing and Housekeeping. 
+
+</div>
+
+<a href="#top">Back to top</a>
+
+</body>

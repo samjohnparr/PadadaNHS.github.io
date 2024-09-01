@@ -1,0 +1,38 @@
+---
+title: |
+  Padada National High School
+description: Schools Division Office - Davao del Sur
+site: distill::distill_website
+---
+
+
+
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/PADADA NATIONAL HIGH SCHOOL/Website/Website 1/PNHS1/carousel", pattern = 'jpg', full.names = TRUE), height = 400, width = '100%')+settings(dots=TRUE, autoplay = TRUE)
+```
+
+<br>
+
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("19.png")
+```
+
+<center>
+It is our pleasure to welcome you all to the official website of Padada National High School formerly Hagonoy National High School - Annex. Experience its easy navigation feature to keep you updated with the school’s projects and accomplishments as well as the people behind the success of our school.
+
+This site has been prepared and developed to inspire **YOU**, our parents, students, and stakeholders to use it as a valuable source of the school’s news and information.
+
+We hope that everyone will become familiar with our school as an institution as well as its policies and procedures that are necessary for its smooth operational management following our DepEd Mission and Vision Statements and its Core Values as our students and clienteles say **“KABATAANG PADADA: DISIPLINADO”**.
+
+Godspeed and enjoy browsing our site!
+
+<span style="text-decoration:underline"> **EMETERIO S. LOBITOS, JR.** </span>   
+School Principal
+</center>
+
+
+
+<a href="#top">Back to top</a>

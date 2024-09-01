@@ -1,0 +1,23 @@
+---
+title: "Gallery"
+---
+## Blue
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/PADADA NATIONAL HIGH SCHOOL/Website/Website 1/PNHS1/gallery/Blue", pattern = 'png', full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE)
+```
+
+## Green
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/PADADA NATIONAL HIGH SCHOOL/Website/Website 1/PNHS1/gallery/Green", pattern = 'png', full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE)
+```
+
+## Red
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/PADADA NATIONAL HIGH SCHOOL/Website/Website 1/PNHS1/gallery/Red", pattern = 'png', full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE)
+```
