@@ -1,0 +1,84 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-09-02T07:43:08+08:00"
+    },
+    {
+      "path": "gallery.html",
+      "title": "Gallery",
+      "author": [],
+      "contents": "\r\nBlue\r\n\r\n\r\n",
+      "last_modified": "2024-09-02T07:45:06+08:00"
+    },
+    {
+      "path": "history.html",
+      "title": "History",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n \r\n \r\n\r\nHISTORY\r\n\r\n\r\n\r\n\r\n \r\n\r\nPadada National High School, formerly Hagonoy National High School Annex, is strategically situated in a in a one (1) hectare land located at Northern Paligue, Padada, Davao del Sur which has an estimated distance of 500 meters form the Davao - General Santos National Highway acquired from the joint funds of the Padada Local Government Unit and the Provincial Government.\r\nThe school operated in the year 1994 under the support of Padada LGU with Hon. Carmelo delos Cientos III, as Municipal Mayor. It was then located at the Municipal Government Complex with Mr. Julio Estropia as the head of the school.\r\nWith the municipal mayor’s vision to establish a technical-vocational school in the municipality, he, together with the Vice-Mayor and the Sangguniang Bayad made efforts for the school to be under the Technical Education Skills and Development Authority (TESDA). Eventually, in 1998 the school was named Carmelo delos Cientos Sr. National Trade School (CCNTS) after the name of the late father of the mayor, situated in a 1.5 hectare land at Southern Paligue, Padada, Davao del Sur acquired through the effort of Mr. Pablo Villaber, this time the school was already offering secondary and vocational courses with the leadership of Mr. Nicasio Estudillo, Ed.D.\r\nHowever with the rationalization scheme between the Department of Education and TESDA, the supervision of the secondary department was turned over to the former in June 2002 bearing the name, Hagonoy National High School Annex with the stewardship of Mr. RIcardo U. Pillerin.\r\nDue to this event, the school had no other choice but to look for a new location since the land that it occupies is owned by TESDA. The school transferred to its present site on October 8, 2003.\r\nIn June of 2008, Mr. Ricardo Pillerin was recalled to his original station at Sulop National High School and was replaced by the present head Mr. Emeterio S. Lobitos, Jr.\r\nIn August 2008, Hagonoy National High School Annex was separated from its mother school by virtue of Republic Act 9540 otherwise known as an act establishing Padada National High School. This made the latter possessed juridicial personality and became an independent school.\r\nIn 2011, Padada National High School established its extension classes in barangay Lower Malinao headed by Mr. RUden B. Gomez and barangay Piape led by Mrs. Elizabeth S. Solano, Ed.D.\r\nPadada National High School (PNHS) opens different programs in order to cater all learners in the community. In 2009, Special Education (SPED) program was offered to help learners with Learning Disabilities (LD) and Hearing Impaired (HI). Seeing the impact of this to the community, the school been ventured into another field of learning to hone talented students in the field of Arts, thus Special Program in the Arts (SPA) on different fields of specialization: Visual Arts, Dance, Voice, Media Arts, and Creative Writing was born in 2012.\r\nWith the onset of Senior High School (SHS), PNHS offers two tracks: General Academic Strand and Tech. Voc. with the following specialization: Plumbing, Shielded Metal Arc Welding (SMAW), Automotive, Hair Dressing and Housekeeping.\r\n\r\nBack to top\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-09-02T07:45:14+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Padada National High School\n",
+      "description": "Schools Division Office - Davao del Sur",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nIt is our pleasure to welcome you all to the official website of Padada National High School formerly Hagonoy National High School - Annex. Experience its easy navigation feature to keep you updated with the school’s projects and accomplishments as well as the people behind the success of our school.\r\nThis site has been prepared and developed to inspire YOU, our parents, students, and stakeholders to use it as a valuable source of the school’s news and information.\r\nWe hope that everyone will become familiar with our school as an institution as well as its policies and procedures that are necessary for its smooth operational management following our DepEd Mission and Vision Statements and its Core Values as our students and clienteles say “KABATAANG PADADA: DISIPLINADO”.\r\nGodspeed and enjoy browsing our site!\r\n EMETERIO S. LOBITOS, JR. \r\nSchool Principal\r\n\r\nBack to top\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-09-02T07:45:26+08:00"
+    },
+    {
+      "path": "location.html",
+      "title": "Contact Information",
+      "author": [],
+      "contents": "\r\nPADADA NATIONAL HIGH SCHOOL\r\nFor more information about our school, you may visit us at Northern Paligue, Padada, Davao del Sur.\r\nYou may also reach us through +63948-782-5307\r\nYou may also send your inquiries or concerns to our email\r\npadada.nhs@deped.gov.ph\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-09-02T07:45:33+08:00"
+    },
+    {
+      "path": "org.html",
+      "title": "Organizational Chart",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-09-02T07:45:39+08:00"
+    },
+    {
+      "path": "prog.html",
+      "title": "Programs and Accomplishments",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-09-02T07:45:46+08:00"
+    },
+    {
+      "path": "reports.html",
+      "title": "Reports",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-09-02T07:45:53+08:00"
+    },
+    {
+      "path": "schoolmemo.html",
+      "title": "School Memo",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-09-02T07:46:11+08:00"
+    },
+    {
+      "path": "ssg.html",
+      "title": "Supreme Student Government",
+      "author": [],
+      "contents": "\r\nThe Supreme Student Government is the highest governing body of the students. It is composed of officers duly elected by the entire student body. It represents the voice of the studentry with the following duties and responsibilities:\r\nTo uphold and enforce the provisions of the Supreme Student Government By-Laws and Constitution;\r\nTo support and promote the ideals, principles, thrusts, and objectives of the SSG, the School and Department of Education;\r\nTo formulate and to recommend programs that will address relevant issues and concerns of the students;\r\nTo plan, to implement, and to enforce policies designed to protect and promote the students’ rights and welfare; and\r\nTo serve as a representative of the students in voicing their opinions, suggestions and grievances.\r\nOfficers (S.Y. 2021-2022)\r\nThe Supreme Student Government Officers of School Year 2021-2022 are the following:\r\nPRESIDENT - Jessica Gerongay\r\nVICE-PRESIDENT - Shane Gary Loie Tapulado\r\nSECRETARY - Desiree Villegas\r\nTREASURER - Camielle Theshannah Jamisola\r\nAUDITOR - Aicel Marl Lausa\r\nPUBLIC INFORMATION OFFICER - Alleah Fee Lasuña\r\nPROTOCOL OFFICER - Chinky Hilot\r\nGRADE LEVEL REPRESENTATIVES:\r\nGRADE 7 - Jenissa Masubay, Krizzel Ann Cero\r\nGRADE 8 - Jhonlloyd Getalla, Jacell Ann Revilla\r\nGRADE 9 - Khently Pansoy, Euan Riel Oja\r\nGRADE 10 - April Joy Dura, Jennie Mae Siy\r\nGRADE 11 - Erich Cabiad, Dv Marie Arevalo\r\nGRADE 12 - Love Marie Dayanap, Gwyne Herana\r\n\r\nSSG ADVISER - Samuel John E. Parreño\r\nNational Gardening Day (2020)\r\n\r\n\r\n\r\nBack to top\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-09-02T07:46:20+08:00"
+    },
+    {
+      "path": "transparencyboard.html",
+      "title": "Transparency Board",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-09-02T07:46:27+08:00"
+    }
+  ],
+  "collections": []
+}
