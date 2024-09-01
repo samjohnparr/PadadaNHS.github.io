@@ -2,7 +2,7 @@ name: "PNHS1"
 title: "Padada National High School"
 description: |
   Padada National High School
-output_dir: "_site"
+output_dir: "."
 theme: theme.css
 favicon: images/favicon.ico
 navbar:
